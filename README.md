@@ -1,5 +1,6 @@
 # Smart-Retail
-Smart Retail adalah perangkat lunak berbasis mobile atau cloud yang dirancang untuk menggantikan mesin kasir konvensional dan mencatat transaksi penjualan secara otomatis melalui smartphone, tablet, maupun PC
+Smart Retail adalah perangkat lunak berbasis mobile atau cloud yang dirancang untuk menggantikan mesin kasir konvensional dan mencatat transaksi penjualan secara otomatis melalui smartphone, tablet, maupun PC.
+
 Fitur Utama Kasir Pintar
 • Pencatatan Transaksi Digital: Menghitung total belanjaan, memberikan diskon/pajak, dan mencetak struk belanja secara instan via printer Bluetooth.
 • Manajemen Stok Terintegrasi: Jumlah stok barang di gudang akan berkurang otomatis setiap kali ada transaksi penjualan.
